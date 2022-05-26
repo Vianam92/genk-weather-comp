@@ -1,21 +1,21 @@
-# \<genk-comp>
+# \<genk-weather-comp>
 
 This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
 ## Installation
 
 ```bash
-npm i genk-comp
+npm i genk-weather-comp
 ```
 
 ## Usage
 
 ```html
 <script type="module">
-  import 'genk-comp/genk-comp.js';
+  import 'genk-weather-comp/genk-weather-comp.js';
 </script>
 
-<genk-comp></genk-comp>
+<genk-weather-comp></genk-weather-comp>
 ```
 
 ## Linting and formatting

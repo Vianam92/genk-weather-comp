@@ -1,1 +1,1 @@
-export { GenkComp } from './src/GenkComp.js';
+export { GenkWeatherComp } from './src/GenkWeatherComp.js';
